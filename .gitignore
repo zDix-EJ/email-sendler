@@ -1,0 +1,18 @@
+
+linux/PodcastInvite
+windows/PodcastInvite.exe
+
+# Данные пользователя
+**/app.db
+**/mailer.db
+**/mailer.db-*
+**/*.log
+**/config.txt
+**/letter.docx
+**/emails.csv
+**/emails.xlsx
+**/preview.html
+**/preview.txt
+**/already-sent.txt
+**/*.pdb
+*.zip
